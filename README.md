@@ -23,3 +23,18 @@ Move last item in openList into working candidate
 
 
 Test (working candidate)
+
+
+
+
+1. main Function();
+
+2. Create a new challenge
+
+3.  Create our solution
+
+4. Move solution to open list.
+
+5. Create rest of breadth options
+
+6. Find correct one
